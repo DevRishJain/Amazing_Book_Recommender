@@ -1,0 +1,10 @@
+.App {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+
+body {
+  font-family: "Space Mono", monospace;
+  background-color: #bbf7d0;
+}
