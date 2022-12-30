@@ -1,2 +1,2 @@
-# Book_Recommender
+# Amazing_Book_Recommender
 Created with CodeSandbox
